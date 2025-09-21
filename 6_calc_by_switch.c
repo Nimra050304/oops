@@ -1,3 +1,5 @@
+// include check for division by zero
+
 #include <stdio.h>
 
 int main() {
